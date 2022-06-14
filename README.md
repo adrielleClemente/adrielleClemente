@@ -1,4 +1,4 @@
-## Olá, eu sou a Adrielle Clemente 👋
+## Olá, eu sou a Adrielle 👋
 
 - 🌱 Atualmente, estou aprendendo Python | JS | HTML | CSS
 - 😄 Pronouns: Ela/Dela

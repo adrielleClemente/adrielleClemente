@@ -2,7 +2,7 @@
 
 - 🌱 Atualmente, estou aprendendo Python | JS | HTML | CSS
 - 😄 Pronouns: Ela/Dela
-- ⚡ Fun fact: Além de códigos escrevo histórias.
+- ⚡ Hobby: Gosto de tocar violão.
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrielleClemente&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>

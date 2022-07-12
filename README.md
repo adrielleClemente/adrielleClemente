@@ -1,6 +1,6 @@
 ## Olá, eu sou a Adrielle 👋
 
-- 🌱 Atualmente, estou aprendendo Python | JS | HTML | CSS
+- 🌱 Atualmente, estou aprendendo Python | JS | HTML | CSS | ReactJs
 - 😄 Pronouns: Ela/Dela
 - ⚡ Hobby: Gosto de tocar violão.
 <div align="center">

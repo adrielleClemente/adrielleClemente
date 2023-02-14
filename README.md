@@ -5,9 +5,9 @@
 - ⚡ Hobby: Gosto de tocar violão.
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrielleClemente&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrielleClemente&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true"/>
     
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrielleClemente&layout=compact&langs_count=7&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrielleClemente&layout=compact&langs_count=7&theme=gruvbox_light"/>
 </div>
  
   

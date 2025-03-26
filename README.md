@@ -54,14 +54,17 @@
 </div>
 
 
-## 💡 Veja meus Projetos
+## 💡 Acesse meu Portifólio de Ciência de Dados
 
+- 📊 [Cientista de Dados](https://github.com/adrielleClemente/cientista_de_dados/tree/main)
 
-[Concessão de Crédito — Crisp-DM](https://github.com/adrielleClemente/cientista_de_dados/tree/main/2.Ci%C3%AAncia%20de%20Dados/classifica_cretido_Crisp-DM#concess%C3%A3o-de-cr%C3%A9dito)
+## Projetos de Destaques
 
-[App Telemarketing](https://github.com/adrielleClemente/cientista_de_dados/tree/main/3.M%C3%B3dulos%20Streamlit/28.Streamlit%20III%2C%20IV)
+- [Concessão de Crédito — Crisp-DM](https://github.com/adrielleClemente/cientista_de_dados/tree/main/2.Ci%C3%AAncia%20de%20Dados/classifica_cretido_Crisp-DM#concess%C3%A3o-de-cr%C3%A9dito)
 
-[Regressão Logística - OOT](https://github.com/adrielleClemente/cientista_de_dados/tree/main/2.Ci%C3%AAncia%20de%20Dados/37.Regress%C3%A3o%20Log%C3%ADstica%20II)
+- [App Telemarketing](https://github.com/adrielleClemente/cientista_de_dados/tree/main/3.M%C3%B3dulos%20Streamlit/28.Streamlit%20III%2C%20IV)
+
+- [Regressão Logística - OOT](https://github.com/adrielleClemente/cientista_de_dados/tree/main/2.Ci%C3%AAncia%20de%20Dados/37.Regress%C3%A3o%20Log%C3%ADstica%20II)
 
 
 

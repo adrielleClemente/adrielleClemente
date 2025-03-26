@@ -1,6 +1,6 @@
 ## Olá, eu sou a Adrielle 👋
 
-- 🌱 Atualmente, estudo ciência de dados, com foco em Python e SQL;
+- 🌱 Cientista de Dados;
 - 😄 Pronouns: Ela/Dela
 - ⚡ Hobby: Gosto de tocar violão.
 
@@ -52,8 +52,10 @@
  
  
 </div>
+
+
+  ## Veja Meus projetos
   
-          
 
           
           

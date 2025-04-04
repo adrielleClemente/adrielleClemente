@@ -1,7 +1,7 @@
 # Olá, eu sou a Adrielle 👋
 
 - 👩‍💻 Profissão: Cientista de Dados;
-- 🌱 Pronouns: Ela/Dela
+- 😊 Pronouns: Ela/Dela
 - ⚡ Hobby: Gosto de tocar violão.
 
 

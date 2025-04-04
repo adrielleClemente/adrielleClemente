@@ -81,7 +81,7 @@ Impossível descrever todos meus interesses apenas em um texto, o que tenho abso
 </p>
 
 
-🚀 Por hora vejo que amarrei minha trajetória de vida e sonhos para me consolidar como Cientista de Dados, sempre aprendendo e descobrindo sempre.
+🚀 Por hora vejo que amarrei minha trajetória de vida e sonhos para me consolidar como Cientista de Dados, aprendendo e descobrindo sempre!
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>

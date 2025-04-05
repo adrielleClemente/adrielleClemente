@@ -14,7 +14,7 @@
 
 ## 🌱 BIO: Como uma Letróloga Migrou para Ciência de Dados (com interesse em LLMs)
 
-Após minhas experiências como assistente administrativa, cargo que trabalhava diretamente com:
+🔍 Após minhas experiências como assistente administrativa, cargo que trabalhava diretamente com:
 
 - cadastro de produtos, clientes e funcionários
 - lançamento e emissão de nota fiscal eletrônica

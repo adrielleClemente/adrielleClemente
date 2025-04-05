@@ -30,17 +30,17 @@
     _(e como consequência)_
 6. Melhoria na área comercial, porque possuía uma base de dados para consulta.
 
-Foram trabalhos que me dediquei de 2012 à 2021, ou seja, 9 anos trabalhando com coleta, extração, manipulação e análise de **dados**.
+Foram trabalhos que me dediquei de 2012 à 2021, ou seja, 9 anos trabalhando com coleta, extração, manipulação e **análise de dados**.
 
-☝️ Sempre me considerei uma **pessoa multifacetada**, enquanto na vida profissional eu adotava soft skills mais **pragmáticas e analíticas**, na vida pessoal eu nutri meu **senso crítico** com a faculdade de Letras, estudando todo o campo da linguística, como linguagem natural, literaturas, metodologia científica e as nuances da língua inglesa.
+☝️ Sempre me considerei uma **pessoa multifacetada**, enquanto na vida profissional eu adotava soft skills mais **pragmáticas e analíticas**, na vida pessoal eu nutri meu **senso crítico** com a faculdade de **Letras**, estudando todo o campo da linguística, como **linguagem natural**, literaturas, metodologia científica e as nuances da **língua inglesa**.
 
-Além disso, concordo com **Sócrates** sobre valorizar o equilíbrio entre mente e corpo, assim:
+Além disso, concordo com **Sócrates** sobre valorizar o **equilíbrio entre mente e corpo**, assim:
 
-➡️ Para a mente me conecto com a música, o cinema, leitura e a escrita para um aprendizado contínuo e percepção de mundo.
+➡️ Para a **mente** me conecto com a música, o cinema, leitura e a escrita para um **aprendizado contínuo e percepção de mundo**.
 
-➡️ Para o corpo pratico esportes, pedalo, faço crossfit e musculação para uma vida com saúde e movimento.
+➡️ Para o **corpo** pratico esportes, pedalo, faço crossfit e musculação para uma **vida com saúde e movimento**.
 
-Impossível descrever todos meus interesses apenas em um texto, o que tenho absoluta certeza é que foi minha **personalidade curiosa e criativa** que me fez entender que eu poderia me tornar uma Cientista de Dados.
+Impossível descrever todos meus interesses apenas em um texto, o que tenho absoluta certeza é que foi minha **personalidade curiosa e criativa** que me fez entender que eu poderia me tornar uma **Cientista de Dados**.
 
 ### Foi uma jornada enriquecedora me aprofundar em:
 - **Matemática e Estatística**
@@ -74,14 +74,14 @@ Impossível descrever todos meus interesses apenas em um texto, o que tenho abso
   - Conhecimento em armazenamento e gerenciamento de bancos de dados
 
 
-💡 No entanto, especificamente estudando o treinamento de LLMs (Large Language Models), ajustando modelos supervisionado e não supervisionado, em conjunto com o hype das AI, que entendi que meu futuro está no desenvolvimento de ML. Refletindo sobre minha bagagem, penso no que **disse Ada Lovelace** em suas anotações:
+💡 No entanto, foi especificamente estudando o **treinamento de LLMs** (Large Language Models), ajustando modelos supervisionado e não supervisionado, em conjunto com o hype das AI, que entendi que meu futuro está no **desenvolvimento de ML**. Refletindo sobre minha bagagem, penso no que **disse Ada Lovelace** em suas anotações:
 
 <p align="center">
   <em>"A imaginação é a faculdade de descoberta, por excelência. É ela que penetra nos mundos invisíveis ao nosso redor, os mundos da ciência."</em>
 </p>
 
 
-🚀 Por hora vejo que amarrei minha trajetória de vida e sonhos para me consolidar como Cientista de Dados, aprendendo e descobrindo sempre!
+🚀 Por hora vejo que amarrei **minha trajetória de vida e sonhos** para me consolidar como **Cientista de Dados**, aprendendo e descobrindo sempre!
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>

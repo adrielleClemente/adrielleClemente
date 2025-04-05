@@ -12,7 +12,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrielleClemente&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-## 🌱 BIO: Como uma Letróloga Resolveu se Tornar Cientista de Dados (com interesse em LLMs)
+## 🌱 BIO: Como uma Letróloga Migrou para Ciência de Dados (com interesse em LLMs)
 
 Após minhas experiências como assistente administrativa, cargo que trabalhava diretamente com:
 

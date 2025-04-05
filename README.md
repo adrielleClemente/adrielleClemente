@@ -109,7 +109,7 @@ Impossível descrever todos meus interesses apenas em um texto, o que tenho abso
   </div><br>
   
   
-  ## 🛜 Contato
+  ### Contato
  
 <div> 
   <a href="https://www.linkedin.com/in/adrielleclemente/" target="_blank" rel="noopener noreferrer">
@@ -126,11 +126,11 @@ Impossível descrever todos meus interesses apenas em um texto, o que tenho abso
 </div>
 
 
-## 📊 Acesse meu Portifólio de Ciência de Dados
+### Portifólio de Ciência de Dados
 
 - [Cientista de Dados](https://github.com/adrielleClemente/cientista_de_dados/tree/main)
 
-## 💡 Projetos de Destaques
+### Projetos de Destaques
 
 - [Concessão de Crédito — Crisp-DM](https://github.com/adrielleClemente/cientista_de_dados/tree/main/2.Ci%C3%AAncia%20de%20Dados/classifica_cretido_Crisp-DM#concess%C3%A3o-de-cr%C3%A9dito)
 

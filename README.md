@@ -74,7 +74,7 @@ Impossível descrever todos meus interesses apenas em um texto, o que tenho abso
   - Conhecimento em armazenamento e gerenciamento de bancos de dados
 
 
-💡 No entanto, foi especificamente estudando o **treinamento de LLMs** (Large Language Models), ajustando modelos supervisionado e não supervisionado, em conjunto com o hype das AI, que entendi que meu futuro está no **desenvolvimento de Machine Learning**. E refletindo sobre minha bagagem, penso no que **disse Ada Lovelace** em suas anotações:
+💡 No entanto, foi especificamente estudando o **treinamento de LLMs** (Large Language Models), ajustando modelos supervisionado e não supervisionado, juntamente com o hype das AI, que entendi que meu futuro está no **desenvolvimento de Machine Learning**. E refletindo sobre minha bagagem, penso no que **disse Ada Lovelace** em suas anotações:
 
 <p align="center">
   <em>"A imaginação é a faculdade de descoberta, por excelência. É ela que penetra nos mundos invisíveis ao nosso redor, os mundos da ciência."</em>

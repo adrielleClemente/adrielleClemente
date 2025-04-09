@@ -126,7 +126,7 @@ Impossível descrever todos meus interesses apenas em um texto, o que tenho abso
 </div>
 
 
-### Portifólio de Ciência de Dados
+### Portfólio de Ciência de Dados
 
 - [Cientista de Dados](https://github.com/adrielleClemente/cientista_de_dados/tree/main)
 

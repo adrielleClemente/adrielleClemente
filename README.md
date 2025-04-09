@@ -18,10 +18,10 @@
 
 - cadastro de produtos, clientes e funcionários
 - lançamento e emissão de nota fiscal eletrônica
-- acesso aos códigos fiscais CST - CFOP - NCM para o registro correto; e
+- acesso aos códigos fiscais CST | CFOP | NCM para o registro correto; e
 - análise dos dados contábeis,
 
-🦾 Encarei o desafio de aplicar tudo que aprendi para implementar um sistema de automação do zero como Gerente Geral. Com esta experiência adquiri responsabilidade e aprimoramento de tomada de decisão, ali atingir meu **maior case dentro da profissão**, Geração Inicial de Dados para o Plano de Negócio. Resumidamente, desse modo:
+🦾 Encarei o desafio de aplicar tudo que aprendi para implementar um sistema de automação do zero como Gerente Geral. Com esta experiência adquiri responsabilidade e aprimoramento de tomada de decisão, alí atingi meu **maior case dentro da profissão**, Geração Inicial de Dados para o Plano de Negócio. Resumidamente, desse modo:
 1. Criação de uma rotina de resolução de problemas
 2. Uso de Excel para os registros e insights do comércio
 3. Cadastro de clientes, faturamento e custos

@@ -32,7 +32,7 @@
 
 Foram trabalhos que me dediquei de 2012 à 2021, ou seja, 9 anos trabalhando com coleta, extração, manipulação e **análise de dados**.
 
-☝️ Sempre me considerei uma **pessoa multifacetada**, enquanto na vida profissional eu adotava soft skills mais **pragmáticas e analíticas**, na vida pessoal eu nutri meu **senso crítico** com a faculdade de **Letras**, estudando todo o campo da linguística, como **linguagem natural**, literaturas, metodologia científica e as nuances da **língua inglesa**.
+☝️ Sempre me considerei uma **pessoa multifacetada**, enquanto na vida profissional eu adotava soft skills mais **pragmáticas e analíticas**, na vida pessoal eu nutri meu **senso crítico** com a faculdade de **Letras**, estudando todo o campo da linguística, como **linguagem natural**, literaturas, metodologia científica, didática e **língua inglesa**.
 
 Além disso, concordo com **Sócrates** sobre valorizar o **equilíbrio entre mente e corpo**, assim:
 

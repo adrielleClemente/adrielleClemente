@@ -36,9 +36,9 @@ Foram trabalhos que me dediquei de 2012 à 2021, ou seja, 9 anos trabalhando com
 
 Além disso, concordo com **Sócrates** sobre valorizar o **equilíbrio entre mente e corpo**, assim:
 
-➡️ Para a **mente** me conecto com a música, o cinema, leitura e a escrita para um **aprendizado contínuo e percepção de mundo**.
+🧠 Para a **mente** me conecto com a música, o cinema, leitura e a escrita para um **aprendizado contínuo e percepção de mundo**.
 
-➡️ Para o **corpo** pratico esportes, pedalo, faço crossfit e musculação para uma **vida com saúde e movimento**.
+🚵‍♀️ Para o **corpo** pratico esportes, pedalo, faço crossfit e musculação para uma **vida com saúde e movimento**.
 
 Impossível descrever todos meus interesses apenas em um texto, o que tenho absoluta certeza é que foi minha **personalidade curiosa e criativa** que me fez entender que eu poderia me tornar uma **Cientista de Dados**.
 

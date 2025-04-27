@@ -44,35 +44,20 @@ Impossível descrever todos meus interesses apenas em um texto, o que tenho abso
 
 ### Foi uma jornada enriquecedora me aprofundar em:
 - **Matemática e Estatística**
-  - Probabilidade e estatística para modelar incertezas e identificar padrões nos dados  
-  - Álgebra linear e cálculo diferencial, essenciais para algoritmos de machine learning
 
 - **Programação**
-  - Domínio de linguagens Python e SQL para manipulação e análise de dados  
-  - Uso de bibliotecas como Pandas, NumPy e Scikit-learn para tarefas específicas de ciência de dados
 
 - **Processamento e Limpeza de Dados**
-  - Técnicas de *data wrangling* para organizar, limpar e transformar dados brutos em formatos utilizáveis  
-  - Identificação e tratamento de *outliers*, valores ausentes e inconsistências nos dados
 
 - **Modelagem e Machine Learning**
-  - Criação de modelos preditivos e prescritivos usando algoritmos como regressão, classificação, *clustering*, entre outros  
-  - Aplicação de técnicas avançadas como *deep learning* para problemas complexos
 
 - **Análise e Interpretação**
-  - Análise descritiva (o que aconteceu) e diagnóstica (por que aconteceu) para entender os dados  
-  - Identificação de tendências e padrões ocultos em conjuntos de dados estruturados e não estruturados
 
 - **Visualização de Dados**
-  - Transformação de dados em gráficos interativos e narrativas visuais para facilitar a compreensão dos insights obtidos, com Python e Power BI
 
 - **Comunicação e Data Storytelling**
-  - Habilidade de traduzir análises complexas em histórias compreensíveis para diferentes públicos, auxiliando na tomada de decisão
 
 - **Infraestrutura e Big Data**
-  - Trabalho com grandes volumes de dados usando ferramentas como MapReduce  
-  - Conhecimento em armazenamento e gerenciamento de bancos de dados
-
 
 💡 No entanto, foi especificamente estudando o **treinamento de LLMs** (Large Language Models), ajustando modelos supervisionado e não supervisionado, juntamente com o hype das AI, que entendi que meu futuro está no **desenvolvimento de Machine Learning**. E refletindo sobre minha bagagem, penso no que **disse Ada Lovelace** em suas anotações:
 

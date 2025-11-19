@@ -16,9 +16,8 @@
 
 🔍 Após minhas experiências como **assistente administrativa**, cargo que trabalhava diretamente com:
 
-- cadastro de produtos, clientes e funcionários
-- lançamento e emissão de nota fiscal eletrônica
-- acesso aos códigos fiscais CST | CFOP | NCM para o registro correto; e
+- cadastro de produtos, clientes e funcionários;
+- lançamento e emissão de nota fiscal eletrônica; e
 - análise dos dados contábeis,
 
 🦾 Encarei o desafio de aplicar tudo que aprendi para implementar um sistema de automação do zero como Gerente Geral. Com esta experiência adquiri responsabilidade e aprimoramento de tomada de decisão, alí atingi meu **maior case dentro da profissão**, Geração Inicial de Dados para o Plano de Negócio. Resumidamente, desse modo:
